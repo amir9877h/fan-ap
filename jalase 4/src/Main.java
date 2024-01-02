@@ -29,7 +29,7 @@ public class Main {
         b3.check("my title");
         System.out.println("=========== 3 =========================");
         //=========== 4 =========================
-        int n = 2; // Number of disks
+        int n = 3; // Number of disks
         towerOfHanoi(n, 'A', 'C', 'B');
         System.out.println("=========== 4 =========================");
         //=========== 5 =========================
